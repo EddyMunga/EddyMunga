@@ -1,6 +1,6 @@
 # Hi there, I'm Edward 👋
 
-### I am a passionate Software Engineer, eager to learn build impactful products and use technology to make a difference.
+### I am a passionate Software Engineer, eager to learn and build impactful products and use technology to make a difference.
 
 #### 📧Gmail:edwardofficial25@gmail.com
 
