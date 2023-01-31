@@ -15,5 +15,5 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Connect with me on social platforms 😊:
+## Connect with me on social platforms:
 ####  Linked-in : https://www.linkedin.com/in/edward-mwangi-0148b923a/
